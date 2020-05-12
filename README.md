@@ -1,5 +1,5 @@
 # Computer-Vision-Basic-Coursera
-                                                      Computer Vision Basics
+                                                 Computer Vision Basics
                                     by University at Buffalo & The State University of New York
 
 About this Course
