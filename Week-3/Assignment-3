@@ -1,0 +1,2 @@
+[Gx, Gy] = imgradientxy(img);
+[Gmag, Gdir] = imgradient(Gx, Gy);
